@@ -1,0 +1,27 @@
+<span id="u">user@localhost</span>:<span id="b">~</span><span id="c">$</span> ssh root@mhung -p 22
+Password: ********
+Last login: Wed Nov 02 15:00:43 2021 from localhost
+<br/>
+<span id="a">root@mhung</span>:<span id="b">~</span><span id="c">#</span> ls
+about_me.txt
+<span id="a">root@mhung</span>:<span id="b">~</span><span id="c">#</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about_me.txt<br/>
+My name is Minh Hung, I'm currently studying in junior high school.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+
+My dream is to become an app developer.
+
+You can find more about who I am in my <a href="https://www.facebook.com/profile.php?id=100010159302043">mind</a>.
+
+I also have a <a href="https://github.com/alextranminhhun">Github</a>. <br>
+
+You can checkout my infomations on:
+<a href="https://www.facebook.com/profile.php?id=100010159302043/">Facebook</a>
+<a href="https://www.youtube.com/channel/UCOJXqPIyzxsMt5arDoIL6KQ">Youtube</a>
+<a href="https://viesonetwork.net">Forum Website</a>
+<a>Mail: trewwweeee@gmail.com</a>
+I publish my writeups on my <a href="https://github.com/alextranminhhun">GitHub</a>, you can also checkout the projects I'm working on over there.
+
+
+<span id="a">root@mhung</span>:<span id="b">~</span><span id="c">#</span> exit
+<p>Connection to mhung closed.</p>
+<span id="u">user@localhost</span>:<span id="b">~</span><span id="c">$</span> shutdown
+Goodbye!
